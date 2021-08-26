@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "4527019ee3ec458ce52ec613d22f1c7e"
+build_time: [1629981571, 877414000]
+inputs:
+  "/Users/pol/Projects/MyProjectors/SkillBranch/flutter_push/macos/Runner/MainFlutterWindow.swift": [1614793080, 0]
+  "/Users/pol/Projects/MyProjectors/SkillBranch/flutter_push/macos/Runner/AppDelegate.swift": [1614793080, 0]
+  "/Users/pol/Projects/MyProjectors/SkillBranch/flutter_push/macos/Flutter/GeneratedPluginRegistrant.swift": [1629981518, 582282571]

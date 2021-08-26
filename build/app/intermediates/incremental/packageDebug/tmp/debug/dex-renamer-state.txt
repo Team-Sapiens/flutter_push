@@ -1,0 +1,4 @@
+#Thu Aug 26 19:07:00 OMST 2021
+base.0=/Users/pol/Projects/MyProjectors/SkillBranch/flutter_push/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
